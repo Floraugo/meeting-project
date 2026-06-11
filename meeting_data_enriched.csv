@@ -1,0 +1,29 @@
+timestamp,name,raw_text_vosk,time_taken_sec,text,question_flag,num_words,text_size_chars,speech_rate_wps,speaker_turn_id
+2026-06-08T14:58:50,Flora,right is everyone here good let's just get started,10.48,"Right, is everyone here? Good. Let's just get started.",False,9,54,0.86,1
+2026-06-08T15:01:12,Kamran,yeah i'm here just got in sorry for been a bit late,10.46,"Yeah, I'm here. Just to say sorry for being a bit late.",False,12,55,1.15,1
+2026-06-08T15:10:25,Mustafa,same here so whats the first thing on the agenda today,10.38,"Same here, so was the Faustina on the agenda today?",True,10,51,0.96,1
+2026-06-08T15:12:06,Tracy,i think we need to talk about the app launch timeline,10.38,I think we need to talk about the app launch timeline.,False,11,54,1.06,1
+2026-06-08T15:13:11,Flora,good shouts has anyone looked at the current progress this week,10.41,"Good points, has anyone looked at the current progress this week?",True,11,65,1.06,2
+2026-06-08T15:14:11,Kamran,yeah i did the backend is mostly done just need testing,10.38,"Yeah, I did the back end. It's mostly done; it just needs testing.",False,13,66,1.25,2
+2026-06-08T15:15:15,Mustafa,the designs are finished i can share the figma link know,10.39,"The designs are finished. I couldn't see how to fix my link, you know?",True,14,70,1.35,2
+2026-06-08T15:17:17,Tracy,perfect i reviewed the user feedback and it's pretty positive overall,10.37,"Perfect, I reviewed the user feedback, and it's pretty positive overall.",False,11,72,1.06,2
+2026-06-08T15:18:02,Flora,does perfect can we talk about was still needs to be done,10.41,That's perfect. Can we talk about what still needs to be done?,True,12,62,1.15,3
+2026-06-08T15:18:53,Kamran,the login page has it book it only seems to work on chrome,10.39,"The login page has an issue, it only seems to work on Chrome.",False,13,61,1.25,3
+2026-06-08T15:19:34,Mustafa,oh really that is annoying is it happening and mobile to,10.42,"Oh really, that is annoying. Is it happening on mobile too?",True,11,59,1.06,3
+2026-06-08T15:20:24,Tracy,seems like you yeah it just doesn't register the clique properly,10.4,Seems like it just doesn't register the click properly.,False,9,55,0.87,3
+2026-06-08T15:21:08,Flora,maybe we should just swap it for a simpler button design,10.37,Maybe we should just swap bits for a simpler design.,False,10,52,0.96,4
+2026-06-08T15:21:59,Kamran,yeah that might actually work i'll give it a go later today,10.4,"Yeah, that might actually work. I'll give it a go later today.",False,12,62,1.15,4
+2026-06-08T15:22:55,Mustafa,i can have the design so much if you've fixed decode,10.37,I can have the design sooner if you've fixed the code.,False,11,54,1.06,4
+2026-06-08T15:23:44,Tracy,sounds like a plan anything else would need to cover today,10.4,Sounds like a plan. Anything else we need to cover today?,True,11,57,1.06,4
+2026-06-08T15:24:31,Flora,just the database stuff but that can wait until our next meeting,10.4,"Just the database stuff, but that can wait until our next meeting.",False,12,66,1.15,5
+2026-06-08T15:25:17,Kamran,perfect i'm quite happy to leave that for none honestly,10.38,"Perfect. I'm quite happy to leave that for now, honestly.",False,10,57,0.96,5
+2026-06-08T15:26:11,Mustafa,same have had enough code for one day i need a brick,10.37,"Same, I've had enough code for one day, and I need a break.",False,13,59,1.25,5
+2026-06-08T15:27:06,Tracy,ha ha fair enough are we done then or is there more,10.44,"Are we finally done then, or his demo?",True,8,38,0.77,5
+2026-06-08T15:28:04,Flora,looks like he does anyone want to grab a coffee downstairs,10.36,Looks like he does. Does anyone want to grab a coffee downstairs?,True,12,65,1.16,6
+2026-06-08T15:28:45,Kamran,you read my mind i was just about to suggest that,10.36,"You read my mind, I was just about to suggest that.",False,11,51,1.06,6
+2026-06-08T15:29:39,Mustafa,definitely need a coffee right now count me in for sure,10.35,"Definitely need a coffee right now, count me in for sure.",False,11,57,1.06,6
+2026-06-08T15:30:28,Tracy,great i will grab the usual from the cafe for everyone,10.39,"Great, our usual grub from the cafe for everyone.",False,9,49,0.87,6
+2026-06-08T15:31:19,Flora,i will come down with you i need to stretch my legs anyway,10.4,"I will come down with you. I need to stretch my legs anyway, and eat.",False,15,69,1.44,7
+2026-06-08T15:32:14,Kamran,get me a flat whites please i can transfer you the money,10.38,"Get me a flat white, please. I can transfer you the money.",False,12,58,1.16,7
+2026-06-08T15:32:57,Mustafa,just a block i'm a kind of for me thanks appreciate it,10.39,"Just a bit, I'm kind of for it. Thanks, I appreciate it.",False,12,56,1.15,7
+2026-06-08T15:33:51,Tracy,brilliant let's head down now and pick this backup tomorrow,10.36,"Brilliant, let's head out now, and we'll pick it up tomorrow.",False,11,61,1.06,7
