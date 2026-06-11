@@ -4,12 +4,12 @@ Records team meeting speech, transcribes with Vosk, corrects with Gemini AI,
 enriches the dataset, validates it, and produces speaking analytics.
 
 ## Team
-| Name    | What they built                          |
-|---------|----------------------------------------  |
-| Flora   | Stage  1 — record_audio.py               |
-| Mustafa |  Stage 2 — enrich_data.py                |
-| Tracy   | Stage  3 - validate.py, analyse.py       |
-| Kamran  | Stage  4 — README, complexity docs,      |
+| Name    | What they built                                                   |
+|---------|----------------------------------------                           |
+| Flora   | Stage  1 — record_audio.py, AI transcript correction              |
+| Mustafa |  Stage 2 — enrich_data.py                                         |
+| Tracy   | Stage  3 - validate.py, analyse.py                                |
+| Kamran  | Stage  4 — README, complexity docs,                               |
 
 ## Setup
 
