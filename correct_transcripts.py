@@ -30,24 +30,24 @@ OLLAMA_URL     = "http://localhost:11434/api/generate"
 OLLAMA_MODEL   = "llama3"
 # ----------------
 
+CORRECTION_PROMPT = (
+    "You are a transcript editor. "
+    "Fix ONLY the spelling, punctuation and capitalisation in the sentence below. "
+    "Do NOT change the meaning, do NOT add new words, do NOT remove words. "
+    "Return ONLY the corrected sentence — no explanation, no quotes.\n\n"
+    "Sentence: {raw}"
+ )
+
 # CORRECTION_PROMPT = (
-#     "You are a transcript editor. "
-#     "Fix ONLY the spelling, punctuation and capitalisation in the sentence below. "
-#     "Do NOT change the meaning, do NOT add new words, do NOT remove words. "
+#     "You are correcting a speech-to-text transcript from a meeting. "
+#     "The audio was transcribed automatically and may contain misheared words, "
+#     "wrong words, or phrases that don't make sense. "
+#     "Fix ALL errors including wrong/misheared words, grammar, word order, "
+#     "spelling, punctuation and capitalisation. "
+#     "Use context to figure out what the speaker most likely meant. "
 #     "Return ONLY the corrected sentence — no explanation, no quotes.\n\n"
 #     "Sentence: {raw}"
 # )
-
-CORRECTION_PROMPT = (
-    "You are correcting a speech-to-text transcript from a meeting. "
-    "The audio was transcribed automatically and may contain misheared words, "
-    "wrong words, or phrases that don't make sense. "
-    "Fix ALL errors including wrong/misheared words, grammar, word order, "
-    "spelling, punctuation and capitalisation. "
-    "Use context to figure out what the speaker most likely meant. "
-    "Return ONLY the corrected sentence — no explanation, no quotes.\n\n"
-    "Sentence: {raw}"
-)
 
 
 def correct_with_gemini(raw_text):

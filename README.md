@@ -6,15 +6,17 @@ enriches the dataset, validates it, and produces speaking analytics.
 ## Team
 | Name    | What they built                                                   |
 |---------|----------------------------------------                           |
-| Flora   | Stage  1 — record_audio.py, AI transcript correction              |
-| Mustafa |  Stage 2 — enrich_data.py                                         |
-| Tracy   | Stage  3 - validate.py, analyse.py                                |
-| Kamran  | Stage  4 — README, complexity docs,                               |
+| Flora   | Stage  1 — record_audio.py                                        |
+| Flora   | Stage  2 - AI transcript correction                               |
+| Mustafa |  Stage 3 — enrich_data.py                                         |
+| Tracy   | Stage  4 - validate.py, analyse.py                                |
+| Kamran  | Stage  5 — README, complexity docs,                               |
 
 ## Setup
 
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt 
+export GEMINI_API_KEY="your-key-here"
 ```
 
 Download Vosk model from https://alphacephei.com/vosk/models
